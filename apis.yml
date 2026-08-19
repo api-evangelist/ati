@@ -23,7 +23,7 @@ tags:
 description: ATI Inc. is a specialty materials and components manufacturer that produces high-performance alloys, titanium products, nickel-based superalloys, and engineered components. The company primarily serves the aerospace, defense, energy, electronics, and medical industries. ATI focuses on direct B2B customer relationships and does not publish a public developer API portal.
 created: '2026-05-04'
 modified: '2026-05-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/ati-domain-security.yml
